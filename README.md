@@ -1,4 +1,6 @@
 # InvoiceTool
+> **Note:** This project is currently in early development phase and is not recommended for production use. Features and APIs may change significantly.
+
 
 ![InvoiceTool Logo](docs/invoicetool-logo.png)
 
