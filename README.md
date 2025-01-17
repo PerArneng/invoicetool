@@ -2,7 +2,7 @@
 
 ![InvoiceTool Logo](docs/invoicetool-logo.png)
 
-A robust invoice processing utility written in Rust that helps you:
+A robust AI based invoice processing utility written in Rust that helps you:
 - Extract information from invoices using AI in various document formats (PDF, JPEG, PNG, etc)
 - Automatically rename invoice files based on extracted data
 - Process multiple invoices in batch mode
