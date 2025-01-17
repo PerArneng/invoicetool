@@ -13,6 +13,12 @@ A robust invoice processing utility written in Rust that helps you:
 - Smart file renaming
 - Written in Rust for performance and reliability
 
+## Help
+To work with the Makefile/Building etc run the following command to get help:
+```bash
+make help
+```
+
 ## Building
 
 ```bash
